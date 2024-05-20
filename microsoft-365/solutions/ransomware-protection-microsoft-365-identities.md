@@ -21,7 +21,7 @@ keywords: ransomware, human-operated ransomware, human operated ransomware, HumO
 description: Use secure sign-ins and Conditional Access to protect your Microsoft 365 resources from ransomware attacks.
 ---
 
-# Step 3. Protect identities
+# Step 3. Protect identities against ransomware attacks
 
 Use the following sections to protect your organization from credential compromise, which is typically the first stage of a larger ransomware attack.
 
