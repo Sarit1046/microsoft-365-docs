@@ -21,7 +21,7 @@ keywords: ransomware, human-operated ransomware, human operated ransomware, HumO
 description: Use security baselines to protect your Microsoft 365 resources from ransomware attacks.
 ---
 
-# Step 1. Configure security baselines
+# Step 1. Configure security baselines for ransomware protection
 
 As a first step to counter ransomware attackers, you must configure the following Microsoft-defined security baselines:
 
