@@ -21,7 +21,7 @@ keywords: ransomware, human-operated ransomware, human operated ransomware, HumO
 description: Use controlled folder access, Microsoft Purview Information Protection, DLP, and Microsoft Defender for Cloud Apps to protect your Microsoft 365 sensitive data.
 ---
 
-# Step 5. Protect information
+# Step 5. Protect information from ransomware threat actors
 
 Because ransomware attackers will also look at your on-premises data located on file, database, and other types of servers, one of the best ways to protect that data is to migrate it to your Microsoft 365 tenant. Once there, it can be protected by built-in mitigation and recovery features such as [versioning, recycle bin, and Files Restore](ransomware-protection-microsoft-365.md#ransomware-mitigation-and-recovery-capabilities-provided-with-microsoft-365).
 
