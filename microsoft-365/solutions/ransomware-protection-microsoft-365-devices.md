@@ -21,7 +21,7 @@ keywords: ransomware, human-operated ransomware, human operated ransomware, HumO
 description: Use Windows Intune as an MDA and MAM provider and Windows 10 security features to protect your Microsoft 365 resources from ransomware attacks.
 ---
 
-# Step 4. Protect devices
+# Step 4. Protect devices against ransomware attacks
 
 To help protect devices (endpoints) against the initial access part of a ransomware attack:
 
