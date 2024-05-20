@@ -21,7 +21,7 @@ keywords: ransomware, human-operated ransomware, human operated ransomware, HumO
 description: Use Microsoft Defender XDR and its security signal sources to protect your Microsoft 365 resources from ransomware attacks.
 ---
 
-# Step 2. Deploy attack detection and response
+# Step 2. Deploy attack detection and response to defend against ransomware
 
 As a strongly recommended initial step for ransomware attack detection and response in your Microsoft 365 tenant, [set up a trial environment](/microsoft-365/security/defender/eval-overview) to evaluate the features and capabilities of Microsoft Defender XDR.
 
